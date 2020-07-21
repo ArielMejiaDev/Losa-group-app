@@ -27,6 +27,6 @@
     },
     "dependencies": {
         "spinkit": "^1.2.5",
-        "yarn": "^1.17.3"
+        "yarn": "^1.22.0"
     }
 }
