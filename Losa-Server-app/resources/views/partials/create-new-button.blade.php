@@ -1,0 +1,1 @@
+<p><a href="{{ $route }}" class="btn btn-success">{{ __('Crear nuevo') }}</a></p>

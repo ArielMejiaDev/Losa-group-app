@@ -1,0 +1,1 @@
+function confirmAction(msj){var r = confirm(msj);if(r == true){}else{event.preventDefault();}}
